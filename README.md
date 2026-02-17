@@ -61,3 +61,18 @@ git add .
 git commit -m "after .venv setup"
 git push -u origin main
 ```
+## Data Source
+
+**Dataset Name:** Seaborn "penguins" dataset  
+**Source Link:** https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv  
+
+**Count of Records:** 344  
+
+### Columns
+- **species**: Penguin species (Adelie, Chinstrap, Gentoo)
+- **island**: Island where the penguin was observed
+- **bill_length_mm**: Bill length in millimeters
+- **bill_depth_mm**: Bill depth in millimeters
+- **flipper_length_mm**: Flipper length in millimeters
+- **body_mass_g**: Body mass in grams
+- **sex**: Sex of the penguin
